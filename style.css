@@ -1,0 +1,62 @@
+#p1
+{
+  text-align: right;
+  font-size: 30px;
+  font-family: arial;
+}
+#p2
+{
+  text-align:left;
+  font-size: 30px;
+  font-family: arial;
+}
+#p3
+{
+  text-align: center;
+  font-size: 25px;
+  font-family: arial;
+}
+#p4
+{
+  font-size: 30px;
+  font-family: arial;
+  background-color: hsla(120, 88%, 35%, 0.773);
+  color: white;
+}
+#p5
+{
+  text-align:center;
+  font-size: 30px;
+  font-family: arial;
+}
+#p6 i:first-child
+{
+  background-color: hsl(0, 89%, 49%);
+  font-size: 30px;
+  font-family: arial;
+
+  
+}
+#p6 i.i1
+{
+  background-color: green;
+  font-size: 30px;
+  font-family: arial;
+
+  
+}
+#p6 i.i2
+{
+  background-color:hsl(60, 89%, 49%);
+  font-size: 30px;
+  font-family: arial;
+}
+#p6 i.i3
+{
+  background-color:black;
+  color: white;
+  font-size: 30px;
+  font-family: arial;
+
+  
+}
